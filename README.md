@@ -1,4 +1,4 @@
-# BioMechanics
+# Abstract
 In this work, we measure the excitation of muscles during the upper limb movement in a standard and 
 microgravity environment. The space-replicating environment has been created within the 
 constraints of an earthen boundary using exoskeletons for shoulder flexion. We plan to validate the 
