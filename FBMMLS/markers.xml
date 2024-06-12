@@ -362,78 +362,78 @@
 				<!--Flag (true or false) specifying whether the marker is fixed in its parent frame during the marker placement step of scaling.  If false, the marker is free to move within its parent Frame to match its experimental counterpart.-->
 				<fixed>false</fixed>
 			</Marker>
-			<Marker name="RTHG">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="LTHG">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="RHIP">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="LHIP">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="MLTOE">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="MRTOE">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="LRTOE">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="LLTOE">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="MLANK">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="MRANK">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="RFRM">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
-			<Marker name="LFRM">
-				<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.).-->
-				<socket_parent_frame>/ground</socket_parent_frame>
-				<!--The fixed location of the station expressed in its parent frame.-->
-				<location>0.11 0.22 0.33000000000000002</location>
-			</Marker>
+<Marker name="RTHG">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.0256323 -0.28115000000000001 0.107201</location>
+</Marker>
+<Marker name="LTHG">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.0256323 -0.28115000000000001 -0.107201</location>
+</Marker>
+<Marker name="RHIP">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.074072570240669655 -0.086604446233476448 0.15777205178187523</location>
+</Marker>
+<Marker name="LHIP">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.074072600000000002 -0.086604399999999998 -0.157772</location>
+</Marker>
+<Marker name="MLTOE">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>0.041104700000000001 -0.95295200000000002 -0.043787100000000002</location>
+</Marker>
+<Marker name="MRTOE">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>0.041104710218522786 -0.95295214608581769 0.043787069632302389</location>
+</Marker>
+<Marker name="LRTOE">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>0.021972999999999999 -0.94008700000000001 0.14924100000000001</location>
+</Marker>
+<Marker name="LLTOE">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>0.021972953141521336 -0.94008669698160663 -0.14924097889287274</location>
+</Marker>
+<Marker name="MLANK">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.077668399999999999 -0.87640399999999996 -0.051400700000000001</location>
+</Marker>
+<Marker name="MRANK">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.07766842272025512 -0.87640398302485245 0.051400653886172334</location>
+</Marker>
+<Marker name="RFRM">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.06692795438224261 0.48692731092006619 0.6033109357730625</location>
+</Marker>
+<Marker name="LFRM">
+<!-- Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame to which this station is fixed.). -->
+<socket_parent_frame>/ground</socket_parent_frame>
+<!-- The fixed location of the station expressed in its parent frame. -->
+<location>-0.066928000000000001 0.486927 -0.60331100000000004</location>
+</Marker>
 		</objects>
 		<groups />
 	</MarkerSet>
