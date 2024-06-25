@@ -1,10 +1,10 @@
 # Abstract
-In this work, we measure the excitation of muscles during the upper limb movement in a standard and 
+In this work, we measure the excitation of muscles during the lower limb movement in a standard and 
 microgravity environment. The space-replicating environment has been created within the 
-constraints of an earthen boundary using exoskeletons for shoulder flexion. We plan to validate the 
+constraints of an earthen boundary using exoskeletons for elbow flexion. We plan to validate the 
 simulation results in open-source software called OpenSim, using data obtained from motion
-capture of the activity and the results from an EMG sensor physically placed in the upper limb 
-region. We can portray the drastic differences in muscle activity in a typical 
+capture of the activity and the results from an EMG sensor physically placed in the corresponding muscles 
+involved in the flexion and extension. We can portray the drastic differences in muscle activity in a typical 
 environment and when subjected to microgravity. The motion dynamics of the muscle involved
 will vary between the two environments, which will be analysed through OpenSim. Both results
 will be compared to prove the effectiveness of using Opensim software for 
