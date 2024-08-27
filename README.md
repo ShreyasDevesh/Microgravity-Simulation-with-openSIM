@@ -5,6 +5,6 @@ In this work, we measure the excitation of bicep brachialis during elbow flexion
 
 We will be able to portray the drastic differences in the muscle activity in normal environment and when subjected to microgravity. The dynamics of motion of the muscle involved will vary between the two environments which will be analysed through OpenSim. The results obtained from both will be compared to prove the effectiveness of using Opensim software for microgravity conditions related to experimental setups in space technology fields as an alternative to conventional techniques.
 
-![image](https://github.com/ShreyasDevesh/Microgravity-Simulation-with-openSIM/blob/main/Final%20take/Opensim%20model.png)
+![image](https://github.com/ShreyasDevesh/Microgravity-Simulation-with-openSIM/blob/main/Final%20take/images/Opensim%20model.png)
 
-![image](https://github.com/ShreyasDevesh/Microgravity-Simulation-with-openSIM/blob/main/Final%20take/exoskeleton%20subject.jpg)
+![image](https://github.com/ShreyasDevesh/Microgravity-Simulation-with-openSIM/blob/main/Final%20take/images/exoskeleton%20subject.jpg)
